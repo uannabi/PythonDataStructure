@@ -17,7 +17,9 @@ Prerequisites
 - Basic knowledge of Python programming.
 - Python interpreter (Python 3.x recommended).
 - Explore the Modules
-Each module in this repository is dedicated to a specific data structure or concept. You can navigate through the folders to find detailed READMEs, example scripts, and exercises.
+
+
+### Each module in this repository is dedicated to a specific data structure or concept. You can navigate through the folders to find detailed READMEs, example scripts, and exercises.
 
 ## Contributing
 This repository is open to contributions! Whether it's adding new examples, improving existing content, or fixing bugs, your input is valuable. Feel free to fork the repository and submit your pull requests.
